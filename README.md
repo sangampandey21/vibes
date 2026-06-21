@@ -1,2 +1,2 @@
 # vibes xxx
-getting good vibes
+getting good vibe

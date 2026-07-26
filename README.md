@@ -1,5 +1,3 @@
-# vibes xxx
-I am getting a good vibe while coding 
+# demo repository
 
-... it makes me feel good 
-...
+
